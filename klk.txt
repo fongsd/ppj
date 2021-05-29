@@ -1,0 +1,74 @@
+<televizor id="1">
+    <marka>Sony</marka>
+    <model>KD49XF707SAEP</model>
+    <godina>2018</godina>
+    <diag>49</diag>
+    <kolicina>5</kolicina>
+    <panel>VA-UHD</panel>
+    <cena>64999</cena>
+</televizor>
+<televizor id="2">
+    <marka>LG</marka>
+    <model>55SM8200</model>
+    <godina>2019</godina>
+    <diag>55</diag>
+    <kolicina>10</kolicina>
+    <panel>IPS-UHD</panel>
+    <cena>103999</cena>
+</televizor>
+<televizor id="3">
+    <marka>Samsung</marka>
+    <model>QE65Q900RATXXH</model>
+    <godina>2019</godina>
+    <diag>65</diag>
+    <kolicina>0</kolicina>
+    <panel>LED-UHD</panel>
+    <cena>49999</cena>
+</televizor>
+<televizor id="4">
+    <marka>Philips</marka>
+    <model>50PUS7303/12</model>
+    <godina>2019</godina>
+    <diag>50</diag>
+    <kolicina>15</kolicina>
+    <panel>LED-UHD</panel>
+    <cena>84999</cena>
+</televizor>
+<televizor id="5">
+    <marka>Sony</marka>
+    <model>KD65XF8505BAEF</model>
+    <godina>2019</godina>
+    <diag>65</diag>
+    <kolicina>2</kolicina>
+    <panel>VA-UHD</panel>
+    <cena>189999</cena>
+</televizor>
+<televizor id="6">
+    <marka>LG</marka>
+    <model>32LM630B</model>
+    <godina>2017</godina>
+    <diag>32</diag>
+    <kolicina>3</kolicina>
+    <panel>IPS-UHD</panel>
+    <cena>34999</cena>
+</televizor>
+<televizor id="7">
+    <marka>Sony</marka>
+    <model>KD43XF7005BAEP</model>
+    <godina>2017</godina>
+    <diag>43</diag>
+    <kolicina>7</kolicina>
+    <panel>VA-UHD</panel>
+    <cena>59999</cena>
+</televizor>
+<televizor id="8">
+    <marka>Samsung</marka>
+    <model>UE32N4002AKXXH</model>
+    <godina>2017</godina>
+    <diag>32</diag>
+    <kolicina>15</kolicina>
+    <panel>TN-HD</panel>
+    <cena>31999</cena>
+</televizor>
+
+
